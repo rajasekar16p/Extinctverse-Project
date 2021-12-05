@@ -1,0 +1,11 @@
+Model Information:
+* title:	Norfolk Kaka (NHMW-Zoo-VS 50.802)
+* source:	https://sketchfab.com/3d-models/norfolk-kaka-nhmw-zoo-vs-50802-311c4a2c0b55467d8b9c2149cba8432a
+* author:	Natural History Museum Vienna (https://sketchfab.com/NHMWien)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Norfolk Kaka (NHMW-Zoo-VS 50.802)" (https://sketchfab.com/3d-models/norfolk-kaka-nhmw-zoo-vs-50802-311c4a2c0b55467d8b9c2149cba8432a) by Natural History Museum Vienna (https://sketchfab.com/NHMWien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

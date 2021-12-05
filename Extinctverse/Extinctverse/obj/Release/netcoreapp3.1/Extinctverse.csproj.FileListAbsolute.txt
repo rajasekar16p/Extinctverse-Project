@@ -1,0 +1,104 @@
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\floor.hlsl.sks
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\floor1.jpg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\floor4.jpg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Extinctverse.exe
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Extinctverse.deps.json
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Extinctverse.runtimeconfig.json
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Extinctverse.runtimeconfig.dev.json
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Extinctverse.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Extinctverse.pdb
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\StereoKit.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\StereoKitC.sym
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\libStereoKitC.so
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\android-arm64-v8a\native\libopenxr_loader.so
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\StereoKitC.sym
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libStereoKitC.so
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win-x64\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win-x64\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win10-arm\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win10-arm\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win10-arm64\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win10-arm64\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win10-x64\native\StereoKitC.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\runtimes\win10-x64\native\StereoKitC.pdb
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.AssemblyInfoInputs.cache
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.AssemblyInfo.cs
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.csproj.CoreCompileInputs.cache
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.dll
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.pdb
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.genruntimeconfig.cache
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.csproj.AssemblyReference.cache
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\dodo-model\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\dodo-model\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\dodo-model\textures\dodo_baseColor.jpeg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\dodo-model\textures\dodo_dodo.jpg_baseColor.jpeg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\dodo-model\textures\dodo_dodo.jpg_emissive.jpeg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\dodo-model\textures\dodo_dodo.jpg_metallicRoughness.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\quaga\source\NHMW-Zoo1-MAMM St710_Eguus quagga_Quagga_High res.zip
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\quaga\source\NHMW-Zoo1-MAMM St710_Eguus quagga_Quagga_low res.mtl
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\quaga\source\NHMW-Zoo1-MAMM St710_Eguus quagga_Quagga_low res.obj
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\quaga\source\NHMW-Zoo1-MAMM St710_Eguus quagga_Quagga_low res_1_bearb.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\lost_pea_boat\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\lost_pea_boat\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\lost_pea_boat\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\lost_pea_boat\textures\Main_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\lost_pea_boat\textures\material_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\lost_pea_boat\textures\Sphere.003__0_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\textures\material_0_diffuse.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\textures\material_0_diffuse.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\norfolk_kaka\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\norfolk_kaka\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\norfolk_kaka\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\norfolk_kaka\textures\material_0_diffuse.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\norfolk_kaka\textures\material_0_specularGlossiness.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\textures\material_0_diffuse.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\source\NHMW-NMW-ST132_Beutelwolf_low res.mtl
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\source\NHMW-NMW-ST132_Beutelwolf_low res.obj
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\tasmanian_tiger\source\NHMW-NMW-ST132_Beutelwolf_low res_1_bearb.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\source\NHMW-Zoo1-MAMM St715_Hippotragus leucophaeus_Blaubock_low res.mtl
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\source\NHMW-Zoo1-MAMM St715_Hippotragus leucophaeus_Blaubock_low res.obj
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\source\NHMW-Zoo1-MAMM St715_Hippotragus leucophaeus_Blaubock_low res_2.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\source\NHMW-Zoo1-Vofgel-50796-Ara tricolor_low res.mtl
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\source\NHMW-Zoo1-Vofgel-50796-Ara tricolor_low res.obj
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\cuban_macaw\source\NHMW-Zoo1-Vofgel-50796-Ara tricolor_low res_1.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\quaga\textures\material_0_diffuse.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\wooly_mammoth\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\wooly_mammoth\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\wooly_mammoth\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\wooly_mammoth\textures\material_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\blue_antelope\textures\material_0_diffuse - Copy.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\geirfugl\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\geirfugl\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\geirfugl\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\geirfugl\textures\material0_diffuse.jpeg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\circular_showroom\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\circular_showroom\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\circular_showroom\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\circular_showroom\textures\Object001_mtl_baseColor.jpeg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\circular_showroom\textures\Object001_mtl_baseColor - Copy.jpeg
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\trex\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\trex\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\trex\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\trex\textures\bawanglong_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\trex\textures\bawanglong_metallicRoughness.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\trex\textures\bawanglong_normal.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\styracosaurus\license.txt
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\styracosaurus\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\styracosaurus\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\styracosaurus\textures\Material.001_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\styracosaurus\textures\Material.002_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\velociraptor\scene.bin
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\velociraptor\scene.gltf
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\velociraptor\textures\Material.001_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\bin\Release\netcoreapp3.1\Assets\velociraptor\textures\Material_baseColor.png
+G:\VS Projects\StereoKit projects\Extinctverse\Extinctverse\obj\Release\netcoreapp3.1\Extinctverse.csproj.CopyComplete

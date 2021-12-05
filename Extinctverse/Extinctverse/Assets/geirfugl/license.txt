@@ -1,0 +1,11 @@
+Model Information:
+* title:	Geirfugl – Great Auk
+* source:	https://sketchfab.com/3d-models/geirfugl-great-auk-83d49d319c6640638a6ceaee29b1ebc5
+* author:	annasveins (https://sketchfab.com/annasveins)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Geirfugl – Great Auk" (https://sketchfab.com/3d-models/geirfugl-great-auk-83d49d319c6640638a6ceaee29b1ebc5) by annasveins (https://sketchfab.com/annasveins) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

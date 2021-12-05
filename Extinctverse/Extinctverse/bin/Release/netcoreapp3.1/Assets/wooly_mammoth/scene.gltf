@@ -1,0 +1,237 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 29818,
+      "max": [
+        10.339622497558594,
+        37.252685546875,
+        39.124542236328125
+      ],
+      "min": [
+        -10.682327270507813,
+        -0.0363006591796875,
+        -19.207794189453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 357816,
+      "componentType": 5126,
+      "count": 29818,
+      "max": [
+        0.9998955726623535,
+        0.9999930262565613,
+        0.9998903274536133
+      ],
+      "min": [
+        -0.9999537467956543,
+        -0.9999760985374451,
+        -0.9999783635139465
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 29818,
+      "max": [
+        0.9942700266838074,
+        0.9892799854278564
+      ],
+      "min": [
+        0.007809999864548445,
+        0.0072100162506103516
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 170982,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ourworld.camera (https://sketchfab.com/ourworld.camera)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wooly-mammoth-32c57e2e222040629da53f287981b885",
+      "title": "Wooly Mammoth"
+    },
+    "generator": "Sketchfab-12.2.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 683928,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 238544,
+      "byteOffset": 683928,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 715632,
+      "byteOffset": 922472,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1638104,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.652381181716919,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.6690232667988963e-16,
+        -1.652381181716919,
+        0.0,
+        0.0,
+        1.652381181716919,
+        3.6690232667988963e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.005615340148068489,
+        0.0,
+        0.0349273407671972,
+        0.0,
+        0.0,
+        0.03537585586309433,
+        0.0,
+        0.0,
+        -0.0349273407671972,
+        -0.0,
+        0.005615340148068489,
+        0.0,
+        0.1353742778301239,
+        -0.043645575642585754,
+        0.38108745217323303,
+        1.0
+      ],
+      "name": "node_id30_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

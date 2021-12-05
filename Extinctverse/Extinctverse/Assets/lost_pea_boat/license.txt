@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lost Pea Boat
+* source:	https://sketchfab.com/3d-models/lost-pea-boat-592e51d04541407ea1e76cf9536cf839
+* author:	Dasha Klyusova (https://sketchfab.com/AnoFail)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lost Pea Boat" (https://sketchfab.com/3d-models/lost-pea-boat-592e51d04541407ea1e76cf9536cf839) by Dasha Klyusova (https://sketchfab.com/AnoFail) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

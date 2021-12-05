@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AX+IuU0e5H2iLH1WiOQd9rzEG1F/1cW1lK2m+/W1zWAdy7eLe9pdHGb1Bi7bbAc4PVNADJHuMMKdkgoBFmD8QA==",
+  "success": true,
+  "projectFilePath": "G:\\VS Projects\\StereoKit projects\\Extinctverse\\Extinctverse\\Extinctverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\senthil\\.nuget\\packages\\stereokit\\0.3.5-preview.2\\stereokit.0.3.5-preview.2.nupkg.sha512",
+    "C:\\Users\\senthil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

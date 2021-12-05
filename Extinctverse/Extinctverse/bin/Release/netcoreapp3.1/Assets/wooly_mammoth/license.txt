@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooly Mammoth
+* source:	https://sketchfab.com/3d-models/wooly-mammoth-32c57e2e222040629da53f287981b885
+* author:	ourworld.camera (https://sketchfab.com/ourworld.camera)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooly Mammoth" (https://sketchfab.com/3d-models/wooly-mammoth-32c57e2e222040629da53f287981b885) by ourworld.camera (https://sketchfab.com/ourworld.camera) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
